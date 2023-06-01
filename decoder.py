@@ -1,4 +1,13 @@
-message = 'YKIXKGZTSKYYGMK' 
+import sys
+
+#test case sample
+#YKIXKZSKYYGMK
+
+if len(sys.argv) < 2:
+   print("Format : python decoder.py enc_msg")
+   exit("No Argument provided")
+
+message = sys.argv[1]
 Letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 for key in range(len(Letters)):
