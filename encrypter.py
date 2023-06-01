@@ -13,7 +13,7 @@ def encrypt(text,s):
 
 	return result
 
-text = "Secret message"
+text = "SECREAT MESSAGE"
 s = 6
 print ("Text : " + text)
 print ("Shift : " + str(s))
