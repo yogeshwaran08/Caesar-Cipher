@@ -11,4 +11,4 @@ $ python bruteforcer.py string-to-decrypt
 ```
 
 Screenshot for output
-![Sample output](img/output.jpg)
+![Sample output](./img/output.jpg)
