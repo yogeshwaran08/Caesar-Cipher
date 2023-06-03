@@ -11,4 +11,4 @@ $ python bruteforcer.py string-to-decrypt
 ```
 
 Screenshot for output
-![Sample output](https://github.com/yogeshwaran08/Caesar-Cipher/blob/cc3a867dbb1d469d09162b91d9bc00ad490810df/img/output.jpg)
+![Sample output](https://github.com/yogeshwaran08/Caesar-Cipher/blob/cc3a867dbb1d469d09162b91d9bc00ad490810df/img/output.jpg?raw=true)
